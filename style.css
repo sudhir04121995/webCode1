@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    margin: 100px auto;
+    display: grid;
+    justify-content: center;
+    background-color: blue;
+}
+
+#results {
+    margin-top: 20px;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+
+  #country{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: aliceblue;
+    border: 1px solid black;
+  }
+
+  h3{
+    color: red;
+  }
